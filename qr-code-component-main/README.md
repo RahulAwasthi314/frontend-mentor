@@ -38,8 +38,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 ```css
@@ -65,8 +63,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp) - This helped me for media queries. I really liked this pattern and will use it going forward.
 - [Units in CSS](https://www.w3schools.com/cssref/css_units.asp) - This is an amazing article which helped me finally understand Units. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
